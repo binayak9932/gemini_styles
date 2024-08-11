@@ -1,6 +1,6 @@
-# Gemini Style Writer
+# Gemini Styles
 
-Gemini Style Writer is a Python script that uses the Gemini AI API to generate content in a specific writing style based on an input text file. The script takes a style sample from a text file and a user-provided prompt, then generates new content that matches the style of the input text.
+Gemini Styles is a Python script that uses the Gemini AI API to generate content in a specific writing style based on an input text file. The script takes a style sample from a text file and a user-provided prompt, then generates new content that matches the style of the input text.
 
 ## Features
 
