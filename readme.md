@@ -45,7 +45,7 @@ Before you begin, ensure you have met the following requirements:
 ## Example
 
 ```
-$ python gemini_style_writer.py
+$ python main.py
 Enter the path to your style text file: sample_style.txt
 Enter your content prompt: Write a post about the importance of time management
 
