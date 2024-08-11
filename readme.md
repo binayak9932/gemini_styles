@@ -26,7 +26,7 @@ Before you begin, ensure you have met the following requirements:
    pip install google-generativeai
    ```
 
-3. Replace `'YOUR_API_KEY_HERE'` in the script with your actual Gemini AI API key.
+3.Enter the api key  in the script with your actual Gemini AI API key.
 
 ## Usage
 
