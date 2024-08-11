@@ -33,7 +33,7 @@ Before you begin, ensure you have met the following requirements:
 1. Run the script:
 
    ```
-   python gemini_style_writer.py
+   python main.py
    ```
 
 2. When prompted, enter the path to your style text file. This file should contain a sample of the writing style you want to emulate.
