@@ -38,6 +38,6 @@ def generate():
         return jsonify({'generated_content': generated_content})
     except Exception as e:
         return jsonify({'error': str(e)}), 500
-
+#main
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
